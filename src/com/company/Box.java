@@ -32,8 +32,7 @@ public class Box {
     }
 
     //accessor methods
-    public void setHeight(double h){
-            height = h;
+    public void setHeight(double h){height = h;
     }
 
     public double volume(){
