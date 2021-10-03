@@ -73,13 +73,13 @@ public class Fraction {
         Fraction f2 = new Fraction(4,5);
 
         Fraction f3 = f1.add(f2);			// add 2 fractions
-        System.out.println("3/4 plus 4/5 = " + f3);	// print the answer
+        System.out.println(f1 + " plus " + f2 + " = " + f3);	// print the answer
         Fraction f4 = f1.subtract(f2);
-        System.out.println("3/4 minus 4/5 = " + f4);
+        System.out.println(f1 + " minus " + f2 + " = " + f4);
         Fraction f5 = f1.multiply(f2);
-        System.out.println("3/4 times 4/5 = " + f5);
+        System.out.println(f1 + " times " + f2 + " is " + f5);
         Fraction f6 = f1.reciprocal();
-        System.out.println("The reciprocal of 3/4 is " + f6);
+        System.out.println("The reciprocal of " + f1 + " is " + f6);
 
 		/*
 		com.company.Fraction f4 = f1.subtract(f2);
