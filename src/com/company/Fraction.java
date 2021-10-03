@@ -80,6 +80,12 @@ public class Fraction {
         Fraction f6 = f1.reciprocal();
         System.out.println("The reciprocal of " + f1 + " is " + f6);
 
+        Fraction f7 = new Fraction();
+        Fraction f8 = new Fraction();
+
+        Fraction f9 = f7.add(f8);
+        System.out.println(f7 + " plus " + f8 + " is " + f9);
+
 		/*
 		com.company.Fraction f4 = f1.subtract(f2);
 		System.out.println(f1 + " - " + f2 + " = " + f4);
