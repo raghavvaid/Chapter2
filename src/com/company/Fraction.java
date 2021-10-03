@@ -71,7 +71,6 @@ public class Fraction {
     public static void main(String[] args) {
         Fraction f1 = new Fraction(3,4);	// create an instance of fraction
         Fraction f2 = new Fraction(4,5);
-
         Fraction f3 = f1.add(f2);			// add 2 fractions
         System.out.println(f1 + " plus " + f2 + " = " + f3);	// print the answer
         Fraction f4 = f1.subtract(f2);
