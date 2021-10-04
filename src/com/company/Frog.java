@@ -88,6 +88,7 @@ public class Frog {
         System.out.println(f3);
         f3.visit(f1);
         System.out.println(f3);
+        System.out.println(f3);
 
 
     }
@@ -102,4 +103,8 @@ Francine
 Yum
 Hi I am Freddy the frog and I live at 0 2
 Hi I am Francine the frog and I live at 0 2
+Frank
+Hi I am Frank the frog and I live at 8 8
+Hi I am Frank the frog and I live at 0 2
+Hi I am Frank the frog and I live at 0 2
 */

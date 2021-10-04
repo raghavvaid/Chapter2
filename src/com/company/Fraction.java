@@ -87,15 +87,11 @@ public class Fraction {
         System.out.println(f7 + " plus " + f8 + " is " + f9);
 
 		/*
-		com.company.Fraction f4 = f1.subtract(f2);
-		System.out.println(f1 + " - " + f2 + " = " + f4);
-
-		Add code to multiply f1 and f2 here
-
-		Add code to call reciprocal here
-
-		create 2 new fractions and add them here.
-
+		3/4 plus 4/5 = 31/20
+        3/4 minus 4/5 = -1/20
+        3/4 times 4/5 is 12/20
+        The reciprocal of 3/4 is 4/3
+        3/4 plus 3/4 is 24/16
 		*/
 
 
